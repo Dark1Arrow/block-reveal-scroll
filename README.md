@@ -20,8 +20,8 @@ This project demonstrates a beautifully crafted scroll animation effect where co
 ---
 
 ## 🎥 Demo  
-- **Live Website**: [View Here](https://dark1arrow.github.io/card-slider/) 
-- **Figma Design**: [View on Figma](https://www.figma.com/design/RhZVqlBJXvt4IwRmR4yG9Z/slider?fuid=1331957299204890869)
+- **Live Website**: [View Here](https://dark1arrow.github.io/block-reveal-scroll/) 
+- **Figma Design**: [View on Figma](https://www.figma.com/design/HYxLG8OmYzW7DmwO5DnTe0/Block-Reveal-Scroll?node-id=35-13&t=yz7wl2URceQPwVWU-1)
 - **LinkedIn Profile**: [Visit My LinkedIn](https://www.linkedin.com/in/gouatm-khanna-61ba63262/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 📱 **Tip**: Rotate your phone to landscape for the best experience on mobile devices!
